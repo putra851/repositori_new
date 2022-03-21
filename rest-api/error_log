@@ -1,0 +1,48 @@
+[30-May-2021 20:42:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/52_IMG_20210530_204241651.jpg): failed to open stream: No such file or directory in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 53
+[30-May-2021 20:42:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6VzOCD' to 'uploads/52_IMG_20210530_204241651.jpg' in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 53
+[30-May-2021 21:00:14 Asia/Jakarta] PHP Warning:  move_uploaded_file(absensi/52_IMG_20210530_210011189.jpg): failed to open stream: No such file or directory in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 53
+[30-May-2021 21:00:14 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwJox5P' to 'absensi/52_IMG_20210530_210011189.jpg' in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 53
+[30-May-2021 22:36:53 Asia/Jakarta] PHP Warning:  move_uploaded_file(/52_IMG_20210530_223649148.jpg): failed to open stream: Permission denied in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 53
+[30-May-2021 22:36:53 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJgg3Yw' to '/52_IMG_20210530_223649148.jpg' in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 53
+[04-Aug-2021 08:15:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'epesantren'@'localhost' (using password: YES) in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 6
+[04-Aug-2021 15:15:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 13
+[04-Aug-2021 15:15:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 14
+[04-Aug-2021 15:15:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/epesantren/public_html/demo/rest-api/fileUpload.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 121
+[06-Aug-2021 00:59:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'epesantren'@'localhost' (using password: YES) in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 6
+[06-Aug-2021 07:59:02 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 13
+[06-Aug-2021 07:59:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 14
+[06-Aug-2021 07:59:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/epesantren/public_html/demo/rest-api/fileUpload.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 121
+[06-Aug-2021 19:03:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'epesantren'@'localhost' (using password: YES) in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 6
+[07-Aug-2021 02:03:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 13
+[07-Aug-2021 02:03:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 14
+[07-Aug-2021 02:03:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/epesantren/public_html/demo/rest-api/fileUpload.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 121
+[06-Aug-2021 19:31:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'epesantren'@'localhost' (using password: YES) in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 6
+[07-Aug-2021 02:31:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 13
+[07-Aug-2021 02:31:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 14
+[07-Aug-2021 02:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/epesantren/public_html/demo/rest-api/fileUpload.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 121
+[06-Aug-2021 19:36:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'epesantren'@'localhost' (using password: YES) in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 6
+[07-Aug-2021 02:36:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 13
+[07-Aug-2021 02:36:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 14
+[07-Aug-2021 02:36:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/epesantren/public_html/demo/rest-api/fileUpload.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 121
+[07-Aug-2021 02:37:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'epesantren'@'localhost' (using password: YES) in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 6
+[07-Aug-2021 09:37:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 13
+[07-Aug-2021 09:37:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 14
+[07-Aug-2021 09:37:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/epesantren/public_html/demo/rest-api/fileUpload.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/epesantren/public_html/demo/rest-api/fileUpload.php on line 121
